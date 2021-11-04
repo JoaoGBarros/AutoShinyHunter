@@ -1,0 +1,15 @@
+{
+    "Window Name": "DeSmuMe 0.9.11 x86",
+    "Controls": {
+        "A": "Z",
+        "B": "X",
+        "Start": "Q",
+        "Select": "W",
+        "L": "E",
+        "R": "R",
+        "Right": "right",
+        "Left": "left",
+        "Up": "up",
+        "Down": "down"
+    }
+}
